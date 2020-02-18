@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../laravel6_Homestead/.idea/laravel6_Homestead.iml" filepath="$PROJECT_DIR$/../laravel6_Homestead/.idea/laravel6_Homestead.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/laravel6t-a.iml" filepath="$PROJECT_DIR$/.idea/laravel6t-a.iml" />
     </modules>
   </component>
